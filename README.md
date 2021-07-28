@@ -1,1 +1,1 @@
-# TypeScript from Scratch
+## Learning TypeScript from Scratch
