@@ -1,0 +1,26 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Base TypeScript project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasesjesus/typescript.git"
+  },
+  "keywords": [
+    "typescript", "ts"
+  ],
+  "author": "@manasesjesus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manasesjesus/typescript/issues"
+  },
+  "homepage": "https://github.com/manasesjesus/typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
