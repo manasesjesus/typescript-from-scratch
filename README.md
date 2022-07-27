@@ -1,8 +1,8 @@
 # TypeScript from scratch and fast
 
-Free TypeScript courses for beginners: Get Started with TypeScript, learn the basics, its features, workflows and how to use it. Learn the most common basics of TypeScript that are applicable to every project that you will create. With these courses you will learn the types, interfaces, classes, namespaces, exports and more.
+Free courses for beginners. Get Started with TypeScript, learn the basics, its features, workflows and how to use it. Learn the most common basics of TypeScript that are applicable to every project that you will create. With these courses you will learn the types, interfaces, classes, namespaces, exports and more.
 
-This mono-repo contains the exercises with my additions, modifications and notes from the following courses.
+This monorepo contains the exercises with my additions, modifications and notes from the following courses.
 
 ### [The Absolute Basics of TypeScript](/1.%20The%20Absolute%20Basics%20of%20TypeScript/)
 
@@ -20,10 +20,10 @@ Learn the advanced features and the skills to use TypeScript with some framework
 
 You need Node.js and TypeScript for the courses and exercises.
 
-Download and install Node.js from <https://nodejs.org>.
+1. Download and install Node.js from <https://nodejs.org>.
 
-Execute the following command to install TypeScript:
+2. Execute the following command to install TypeScript:
 
-```shell
-$ sudo npm install --location=global typescript
-```
+    ```shell
+    $ sudo npm install --location=global typescript
+    ```
