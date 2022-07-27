@@ -4,15 +4,15 @@ Free TypeScript courses for beginners: Get Started with TypeScript, learn the ba
 
 This mono-repo contains the exercises from the following courses with my additions, modifications and notes.
 
-### The Absolute Basics of TypeScript
+### [The Absolute Basics of TypeScript](/1.%20The%20Absolute%20Basics%20of%20TypeScript/)
 
 The most common basics of TypeScript that are applicable to every TypeScript project that you will create or continue from now and into the future.
 
-### TypeScript Introduction
+### [TypeScript Introduction](/2.%20TypeScript%20Introduction/)
 
 Get Started with TypeScript, learn the basics, its features, workflows, how to use it and configure your development environment.
 
-### TypeScript Main Components
+### [TypeScript Main Components](/3.%20TypeScript%20Main%20Components/)
 
 Learn the advanced features and the skills to use TypeScript with some frameworks and libraries like Angular and React.
 
