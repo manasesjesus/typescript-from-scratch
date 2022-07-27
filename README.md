@@ -1,8 +1,8 @@
-# Learn TypeScript from scratch and fast
+# TypeScript from scratch and fast
 
 Free TypeScript courses for beginners: Get Started with TypeScript, learn the basics, its features, workflows and how to use it. Learn the most common basics of TypeScript that are applicable to every project that you will create. With these courses you will learn the types, interfaces, classes, namespaces, exports and more.
 
-This mono-repo contains the exercises from the following courses with my additions, modifications and notes.
+This mono-repo contains the exercises with my additions, modifications and notes from the following courses.
 
 ### [The Absolute Basics of TypeScript](/1.%20The%20Absolute%20Basics%20of%20TypeScript/)
 
