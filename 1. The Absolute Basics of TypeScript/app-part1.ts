@@ -43,4 +43,4 @@ let bs2: Persona = { name: "Britney", age: 19, };
 
 // print the personas
 console.log("Persona: " + mj2.name);
-console.log(bs);
+console.log(bs2);
